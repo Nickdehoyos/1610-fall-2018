@@ -14,6 +14,7 @@
         <e p="FloatData.cs" t="Include" />
         <e p="Husky.cs" t="Include" />
         <e p="MouseDownBehaviour.cs" t="Include" />
+        <e p="MouseEventBehaviour.cs" t="Include" />
         <e p="Move.cs" t="Include" />
         <e p="MyFirstScript.cs" t="Include" />
         <e p="Scenes" t="Include">

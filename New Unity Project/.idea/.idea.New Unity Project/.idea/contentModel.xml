@@ -17,9 +17,11 @@
         <e p="MouseEventBehaviour.cs" t="Include" />
         <e p="Move.cs" t="Include" />
         <e p="MyFirstScript.cs" t="Include" />
+        <e p="PowerUp.cs" t="Include" />
         <e p="Scenes" t="Include">
           <e p="NewBehaviourScript.cs" t="Include" />
         </e>
+        <e p="TriggerEventBehaviour.cs" t="Include" />
         <e p="Variables.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />

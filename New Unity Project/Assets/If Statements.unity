@@ -199,6 +199,7 @@ GameObject:
   m_Component:
   - component: {fileID: 992352012}
   - component: {fileID: 992352011}
+  - component: {fileID: 992352013}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -256,6 +257,26 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!114 &992352013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 992352010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e93482e48a8bf624681051086e00ffbc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LightOn: 0
+  Password: 
+  A: 1
+  B: 0
+  C: 0
+  Lock: {fileID: 11400000, guid: fcbcca8ecd6bb3145976d3b9ae757f30, type: 2}
+  Key: {fileID: 11400000, guid: fcbcca8ecd6bb3145976d3b9ae757f30, type: 2}
+  WizardPower: {fileID: 11400000, guid: 31ae138ba5cd53247bc1076186d28a3b, type: 2}
+  PawnPower: {fileID: 11400000, guid: ee2b0a627d9482c4c8c4cdbb6a86c1c0, type: 2}
 --- !u!1 &1152730772
 GameObject:
   m_ObjectHideFlags: 0

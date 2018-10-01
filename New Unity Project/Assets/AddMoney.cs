@@ -17,8 +17,4 @@ public class AddMoney : MonoBehaviour
 
 	}
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }

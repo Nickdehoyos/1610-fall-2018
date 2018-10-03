@@ -10,6 +10,7 @@
         <e p="AddValue.cs" t="Include" />
         <e p="Animal.cs" t="Include" />
         <e p="CameraLookAt.cs" t="Include" />
+        <e p="CharacterMover.cs" t="Include" />
         <e p="Dog.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
         <e p="Husky.cs" t="Include" />

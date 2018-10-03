@@ -13,6 +13,7 @@
         <e p="Dog.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
         <e p="Husky.cs" t="Include" />
+        <e p="IfPowerUpMax.cs" t="Include" />
         <e p="IfStatements.cs" t="Include" />
         <e p="MouseDownBehaviour.cs" t="Include" />
         <e p="MouseEventBehaviour.cs" t="Include" />

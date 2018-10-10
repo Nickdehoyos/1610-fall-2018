@@ -10,9 +10,10 @@ public class DestoryObject : MonoBehaviour {
 		Destroy(gameObject);
 	}
 
-	private void OnCollisionEnter(Collision other)
-	{
-		Destroy(gameObject);
+	private void OnCollisionStay(Collision other)
+	{		
 		Destroy(other.gameObject);
+
+		Destroy(gameObject);
 	}
 }

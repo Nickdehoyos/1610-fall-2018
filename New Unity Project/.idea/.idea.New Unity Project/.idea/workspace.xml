@@ -16,29 +16,29 @@
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="5" />
-          <entry key="project.open.time.8" value="4" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="4962" />
+          <entry key="cs" value="5530" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="4962" />
+          <entry key="C#" value="5530" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="22" />
+          <entry key="cs" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="22" />
+          <entry key="C#" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -89,14 +89,13 @@
                 <marker date="1539205525157" expanded="true" signature="372:393" ph="{...}" />
                 <marker date="1539205525157" expanded="true" signature="439:585" ph="{...}" />
                 <marker date="1539205525157" expanded="true" signature="503:583" ph="{...}" />
-                <marker date="1539205525157" expanded="true" signature="620:752" ph="{...}" />
                 <marker date="1539205525157" expanded="true" signature="644:750" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -111,6 +110,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Transform.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+              <folding>
+                <marker date="1539549290323" expanded="true" signature="6:78" ph="..." />
+                <marker date="1539549290323" expanded="true" signature="118:727" ph="{...}" />
+                <marker date="1539549290323" expanded="true" signature="262:721" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -119,6 +132,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8732DE5-BEEC-4A87-8F92-8152240B5DC1/7a/378ded87/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Transform.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestoryObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs" root0="FORCE_HIGHLIGHTING" />
@@ -147,6 +161,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/DestoryObject.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Transform.cs" />
       </list>
     </option>
   </component>
@@ -168,11 +183,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
     </panes>
@@ -231,11 +246,12 @@
       <workItem from="1538598898278" duration="4245000" />
       <workItem from="1539031198362" duration="3245000" />
       <workItem from="1539204391428" duration="2659000" />
+      <workItem from="1539547741835" duration="1548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28953000" />
+    <option name="totallyTimeSpent" value="30501000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -248,8 +264,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20872483" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21140939" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -357,7 +374,6 @@
             <marker date="1539205525157" expanded="true" signature="372:393" ph="{...}" />
             <marker date="1539205525157" expanded="true" signature="439:585" ph="{...}" />
             <marker date="1539205525157" expanded="true" signature="503:583" ph="{...}" />
-            <marker date="1539205525157" expanded="true" signature="620:752" ph="{...}" />
             <marker date="1539205525157" expanded="true" signature="644:750" ph="{...}" />
           </folding>
         </state>
@@ -372,6 +388,18 @@
             <marker date="1539206451035" expanded="true" signature="118:270" ph="{...}" />
             <marker date="1539206451035" expanded="true" signature="156:193" ph="{...}" />
             <marker date="1539206451035" expanded="true" signature="228:267" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Transform.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+          <folding>
+            <marker date="1539549290323" expanded="true" signature="6:78" ph="..." />
+            <marker date="1539549290323" expanded="true" signature="118:727" ph="{...}" />
+            <marker date="1539549290323" expanded="true" signature="262:721" ph="{...}" />
           </folding>
         </state>
       </provider>

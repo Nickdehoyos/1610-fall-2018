@@ -13,7 +13,6 @@
           <e p="AddMoney.cs" t="Include" />
           <e p="AddValue.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
-          <e p="CameraLookAt.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="DestoryObject.cs" t="Include" />
           <e p="Dog.cs" t="Include" />
@@ -30,6 +29,7 @@
           <e p="NameId.cs" t="Include" />
           <e p="PowerUp.cs" t="Include" />
           <e p="SubtractFunction.cs" t="Include" />
+          <e p="Transform.cs" t="Include" />
           <e p="TriggerEventBehaviour.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
           <e p="WhatCanSeeIt.cs" t="Include" />

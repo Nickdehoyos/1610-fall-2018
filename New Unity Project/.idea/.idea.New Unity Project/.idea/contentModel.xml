@@ -6,6 +6,7 @@
     <e p="C:\Users\nickd\Documents\Gitignore\1610-fall-2018\New Unity Project" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="AddToCollection.cs" t="Include" />
         <e p="Scenes" t="Include">
           <e p="NewBehaviourScript.cs" t="Include" />
         </e>
@@ -27,6 +28,7 @@
           <e p="Move.cs" t="Include" />
           <e p="MyFirstScript.cs" t="Include" />
           <e p="NameId.cs" t="Include" />
+          <e p="ObjectCollection.cs" t="Include" />
           <e p="PowerUp.cs" t="Include" />
           <e p="SubtractFunction.cs" t="Include" />
           <e p="Transform.cs" t="Include" />

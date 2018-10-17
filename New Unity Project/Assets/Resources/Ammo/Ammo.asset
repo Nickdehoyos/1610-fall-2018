@@ -8,6 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a373603f79ca5c4cbee4d3cc1b3e735, type: 3}
-  m_Name: ScoobyDoo
+  m_Script: {fileID: 11500000, guid: d516cdece4c10dc4c8a5ce9bc08c1d55, type: 3}
+  m_Name: Ammo
   m_EditorClassIdentifier: 
+  OjbectList: []

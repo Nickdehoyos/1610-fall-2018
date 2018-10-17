@@ -11,4 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d516cdece4c10dc4c8a5ce9bc08c1d55, type: 3}
   m_Name: TWDVsMysteryInc
   m_EditorClassIdentifier: 
-  OjbectList: []
+  OjbectList:
+  - {fileID: 11400000, guid: 8eb06fa91ee5d4c4a86e0e4c936497d3, type: 2}
+  - {fileID: 11400000, guid: 598debbf28943d84b8ad4295a1f7b055, type: 2}

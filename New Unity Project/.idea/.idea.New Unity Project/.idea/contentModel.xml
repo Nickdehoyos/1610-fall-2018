@@ -18,6 +18,7 @@
           <e p="DestoryObject.cs" t="Include" />
           <e p="Dog.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="GameStates.cs" t="Include" />
           <e p="Husky.cs" t="Include" />
           <e p="IfPowerUpMax.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
@@ -32,6 +33,7 @@
           <e p="ObjectCollection.cs" t="Include" />
           <e p="PowerUp.cs" t="Include" />
           <e p="SubtractFunction.cs" t="Include" />
+          <e p="SwitchStatements.cs" t="Include" />
           <e p="Transform.cs" t="Include" />
           <e p="TriggerEventBehaviour.cs" t="Include" />
           <e p="UpdateImageValue.cs" t="Include" />

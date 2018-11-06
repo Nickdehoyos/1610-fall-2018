@@ -7,6 +7,7 @@ public class Transform : MonoBehaviour
 	public float MovementSpeed = 10f;
 	public float TurnSpeed = 50f;
 	public float Speed;
+	public Vector3 position;
 	
 	
 	// Update is called once per frame

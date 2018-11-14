@@ -39,6 +39,7 @@
           <e p="SwitchStatements.cs" t="Include" />
           <e p="Transform.cs" t="Include" />
           <e p="TriggerEventBehaviour.cs" t="Include" />
+          <e p="UpdateAnims.cs" t="Include" />
           <e p="UpdateImageValue.cs" t="Include" />
           <e p="ValueChange.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
